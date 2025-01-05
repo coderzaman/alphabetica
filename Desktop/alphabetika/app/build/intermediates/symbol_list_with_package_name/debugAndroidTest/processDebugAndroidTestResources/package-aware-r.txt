@@ -1,3 +1,0 @@
-com.example.alphabetika.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

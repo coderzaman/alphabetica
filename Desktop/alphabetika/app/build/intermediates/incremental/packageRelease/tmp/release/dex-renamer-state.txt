@@ -1,4 +1,0 @@
-#Sun Jan 05 12:48:36 BDT 2025
-base.0=/home/coderaktar/Desktop/alphabetika/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
