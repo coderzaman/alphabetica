@@ -1,0 +1,412 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:2:1-83:12
+MERGED from [com.google.android.material:material:1.10.0] /home/coderaktar/.gradle/caches/transforms-4/aebdd224e17e4dfc92220a6ee1ca2cb0/transformed/material-1.10.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/coderaktar/.gradle/caches/transforms-4/b4f6857d1c8efd6bd332d3b95fa32de6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/7559c2f0b716cfa74aedbd743a1e7093/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/58d93ecc8b3ddcb80cd5edaee8db239f/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/6936ccb71ee4c773957dc85f5e0c5bf7/transformed/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/eed86a282a8acfa9d6da9d020796ec3f/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/coderaktar/.gradle/caches/transforms-4/b62ba6fe82e6dc742ab6291f8e2414d7/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /home/coderaktar/.gradle/caches/transforms-4/350666ff69496a962099581c60ecb0bb/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/07f73964514cbcb8c7d63eb2be4ff38f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/4273f662ecce44ecdcef0418674325a0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/ffbf485d262d6295892588b43eeedf6e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/6e8c9b5182a1b730711b485a371b6f69/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f8b191b361e26225c2dbdbab96a7a442/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/b97985827933b66abd9d266e7e794bae/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/787f04bbd2994c03df28c2eb56c9357d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/cea02912ce8ceebda3db212fdcfb018f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c199adb038d00b7a8c4e4b67eeec406b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/0d4caf2cddc2efc497b93cc5556f69e4/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/coderaktar/.gradle/caches/transforms-4/fb8f6d15c7a2c0dae034034eb98d5d3e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/a26a38d26aa80f64527c30a33fe6191a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/cb2e6459d9c5b573685fb0292a0b61e3/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/555b7749ab9bacdea89a54183e6057a9/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/f0c948e771b25e1e00d6e2c323fa0bda/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/3cf2b6f51c9a9184c6dc01937f04e46b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/904371529c904c15f7eaeee3cfd41f4b/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/bc1850823367c1aff2eab5cb841feed7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/06328e9f1aa589f18ac37b61f7de17d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/80a6c77d29f7a23851042fd86613ebe3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/dd119145cf46bb4229676750bc5ed94b/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c8b5c330c7c37d02f0ac7d1baa67ab05/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9f5907fd989b77e12e86b21682d1ef6d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/8b6155169b61378b7ac900c8562d1f41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9580f4acc852a81328ef080636fe0fae/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/749eab11cb273ca56bd3091a68196bfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/71e20a5e5722694b576e4a7a8f1ae586/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f80167aaaa22eb22f6d6f3654fa19723/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/coderaktar/.gradle/caches/transforms-4/caaf97064ee9a1f06ad1b74a5bc43c88/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/73a2b305587ceefe70429fae96e35e68/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/603d8f7101bc74433416022375b2f7f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/37a535f55492f7534fc36d10b1297984/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/6d1d28e47eb8e63fd9eb8e75069e32d2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:5:5-82:19
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:5:5-82:19
+MERGED from [com.google.android.material:material:1.10.0] /home/coderaktar/.gradle/caches/transforms-4/aebdd224e17e4dfc92220a6ee1ca2cb0/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] /home/coderaktar/.gradle/caches/transforms-4/aebdd224e17e4dfc92220a6ee1ca2cb0/transformed/material-1.10.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/coderaktar/.gradle/caches/transforms-4/b4f6857d1c8efd6bd332d3b95fa32de6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/coderaktar/.gradle/caches/transforms-4/b4f6857d1c8efd6bd332d3b95fa32de6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/749eab11cb273ca56bd3091a68196bfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/749eab11cb273ca56bd3091a68196bfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:8:9-46
+	android:icon
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.alphabetika.SplashScreen
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:13:9-21:20
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:15:13-36
+	android:theme
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:16:13-48
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:14:13-64
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.alphabetika.MainActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:24:13-64
+activity#com.example.alphabetika.LoginActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:27:9-29:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:28:13-65
+activity#com.example.alphabetika.SignupActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:31:9-33:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:32:13-66
+activity#com.example.alphabetika.BornomalaActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:35:9-37:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:36:13-69
+activity#com.example.alphabetika.ShorobornoActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:39:9-41:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:40:13-70
+activity#com.example.alphabetika.BenjonBornoActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:43:9-45:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:44:13-71
+activity#com.example.alphabetika.GameMainScreen
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:46:9-48:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:47:13-66
+activity#com.example.alphabetika.GameActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:49:9-51:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:50:13-64
+activity#com.example.alphabetika.EnglishAlphabetActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:52:9-54:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:53:13-75
+activity#com.example.alphabetika.NumberActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:55:9-57:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:56:13-66
+activity#com.example.alphabetika.ArabicActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:58:9-60:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:59:13-66
+activity#com.example.alphabetika.ArabicNumberActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:61:9-63:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:62:13-72
+activity#com.example.alphabetika.SongkaActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:64:9-66:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:65:13-66
+activity#com.example.alphabetika.MainResult
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:67:9-69:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:69:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:68:13-62
+activity#com.example.alphabetika.ProfileActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:70:9-72:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:72:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:71:13-67
+activity#com.example.alphabetika.HomeActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:73:9-75:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:74:13-64
+activity#com.example.alphabetika.ChobiThekePoriActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:76:9-78:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:77:13-74
+activity#com.example.alphabetika.SentenceShorobornoActivity
+ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:79:9-81:39
+	android:exported
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:81:13-37
+	android:name
+		ADDED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml:80:13-78
+uses-sdk
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.10.0] /home/coderaktar/.gradle/caches/transforms-4/aebdd224e17e4dfc92220a6ee1ca2cb0/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] /home/coderaktar/.gradle/caches/transforms-4/aebdd224e17e4dfc92220a6ee1ca2cb0/transformed/material-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/coderaktar/.gradle/caches/transforms-4/b4f6857d1c8efd6bd332d3b95fa32de6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/coderaktar/.gradle/caches/transforms-4/b4f6857d1c8efd6bd332d3b95fa32de6/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/7559c2f0b716cfa74aedbd743a1e7093/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/7559c2f0b716cfa74aedbd743a1e7093/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/58d93ecc8b3ddcb80cd5edaee8db239f/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/coderaktar/.gradle/caches/transforms-4/58d93ecc8b3ddcb80cd5edaee8db239f/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/6936ccb71ee4c773957dc85f5e0c5bf7/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/6936ccb71ee4c773957dc85f5e0c5bf7/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/eed86a282a8acfa9d6da9d020796ec3f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/eed86a282a8acfa9d6da9d020796ec3f/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/coderaktar/.gradle/caches/transforms-4/b62ba6fe82e6dc742ab6291f8e2414d7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/coderaktar/.gradle/caches/transforms-4/b62ba6fe82e6dc742ab6291f8e2414d7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /home/coderaktar/.gradle/caches/transforms-4/350666ff69496a962099581c60ecb0bb/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/coderaktar/.gradle/caches/transforms-4/350666ff69496a962099581c60ecb0bb/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/07f73964514cbcb8c7d63eb2be4ff38f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/07f73964514cbcb8c7d63eb2be4ff38f/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/4273f662ecce44ecdcef0418674325a0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/4273f662ecce44ecdcef0418674325a0/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/ffbf485d262d6295892588b43eeedf6e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/ffbf485d262d6295892588b43eeedf6e/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/6e8c9b5182a1b730711b485a371b6f69/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/6e8c9b5182a1b730711b485a371b6f69/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f8b191b361e26225c2dbdbab96a7a442/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f8b191b361e26225c2dbdbab96a7a442/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/b97985827933b66abd9d266e7e794bae/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/b97985827933b66abd9d266e7e794bae/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/787f04bbd2994c03df28c2eb56c9357d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/787f04bbd2994c03df28c2eb56c9357d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/cea02912ce8ceebda3db212fdcfb018f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/cea02912ce8ceebda3db212fdcfb018f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c199adb038d00b7a8c4e4b67eeec406b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c199adb038d00b7a8c4e4b67eeec406b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/0d4caf2cddc2efc497b93cc5556f69e4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/0d4caf2cddc2efc497b93cc5556f69e4/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/coderaktar/.gradle/caches/transforms-4/fb8f6d15c7a2c0dae034034eb98d5d3e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/coderaktar/.gradle/caches/transforms-4/fb8f6d15c7a2c0dae034034eb98d5d3e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/a26a38d26aa80f64527c30a33fe6191a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/a26a38d26aa80f64527c30a33fe6191a/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/cb2e6459d9c5b573685fb0292a0b61e3/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/cb2e6459d9c5b573685fb0292a0b61e3/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/555b7749ab9bacdea89a54183e6057a9/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/555b7749ab9bacdea89a54183e6057a9/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/f0c948e771b25e1e00d6e2c323fa0bda/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/f0c948e771b25e1e00d6e2c323fa0bda/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/3cf2b6f51c9a9184c6dc01937f04e46b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/3cf2b6f51c9a9184c6dc01937f04e46b/transformed/lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/904371529c904c15f7eaeee3cfd41f4b/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/904371529c904c15f7eaeee3cfd41f4b/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/bc1850823367c1aff2eab5cb841feed7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/bc1850823367c1aff2eab5cb841feed7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/06328e9f1aa589f18ac37b61f7de17d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/06328e9f1aa589f18ac37b61f7de17d8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/80a6c77d29f7a23851042fd86613ebe3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/80a6c77d29f7a23851042fd86613ebe3/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/dd119145cf46bb4229676750bc5ed94b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/coderaktar/.gradle/caches/transforms-4/dd119145cf46bb4229676750bc5ed94b/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c8b5c330c7c37d02f0ac7d1baa67ab05/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/c8b5c330c7c37d02f0ac7d1baa67ab05/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9f5907fd989b77e12e86b21682d1ef6d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9f5907fd989b77e12e86b21682d1ef6d/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/8b6155169b61378b7ac900c8562d1f41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/8b6155169b61378b7ac900c8562d1f41/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9580f4acc852a81328ef080636fe0fae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/9580f4acc852a81328ef080636fe0fae/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/749eab11cb273ca56bd3091a68196bfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/749eab11cb273ca56bd3091a68196bfe/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/71e20a5e5722694b576e4a7a8f1ae586/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/71e20a5e5722694b576e4a7a8f1ae586/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f80167aaaa22eb22f6d6f3654fa19723/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/f80167aaaa22eb22f6d6f3654fa19723/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/coderaktar/.gradle/caches/transforms-4/caaf97064ee9a1f06ad1b74a5bc43c88/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/coderaktar/.gradle/caches/transforms-4/caaf97064ee9a1f06ad1b74a5bc43c88/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/73a2b305587ceefe70429fae96e35e68/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/73a2b305587ceefe70429fae96e35e68/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/603d8f7101bc74433416022375b2f7f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/603d8f7101bc74433416022375b2f7f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/37a535f55492f7534fc36d10b1297984/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/coderaktar/.gradle/caches/transforms-4/37a535f55492f7534fc36d10b1297984/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/6d1d28e47eb8e63fd9eb8e75069e32d2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/6d1d28e47eb8e63fd9eb8e75069e32d2/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/coderaktar/Desktop/alphabetika/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/coderaktar/.gradle/caches/transforms-4/f4a2b60d21a38b1c28b02f5bd1333692/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/coderaktar/.gradle/caches/transforms-4/5c2244b0c39c9199192262d57bf344a7/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /home/coderaktar/.gradle/caches/transforms-4/b5190349ce9dcabe3597488b7410cf77/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.alphabetika.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.alphabetika.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/coderaktar/.gradle/caches/transforms-4/5b4fc319d2f18a3d384cac612b0c140a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /home/coderaktar/.gradle/caches/transforms-4/0c2e5809e102c42013c9b4633b8192a4/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

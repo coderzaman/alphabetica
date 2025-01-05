@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.alphabetika.app-mergeDebugResources-30:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/coderaktar/.gradle/caches/transforms-4/58d93ecc8b3ddcb80cd5edaee8db239f/transformed/appcompat-1.6.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
