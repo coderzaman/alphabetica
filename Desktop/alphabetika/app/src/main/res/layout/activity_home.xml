@@ -1,0 +1,59 @@
+<FrameLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/colorPrimaryDark"
+android:padding="16dp">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <!-- BenjonBorno button -->
+        <Button
+            android:id="@+id/btn_bornomala"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বর্ণমালা"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:background="@color/colorAccent"
+            android:paddingVertical="20dp"
+            android:layout_marginBottom="10dp" />
+
+        <!-- Shognka button -->
+        <Button
+            android:id="@+id/borno_sen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ছবি থেকে পড়ি"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:background="@color/colorAccent"
+            android:paddingVertical="20dp"
+            android:layout_marginBottom="10dp" />
+
+
+
+        <!-- Khela button -->
+        <Button
+            android:id="@+id/btnKhela"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="খেলা"
+            android:textSize="30sp"
+            android:textColor="#fff"
+            android:background="@color/colorAccent"
+            android:paddingVertical="20dp"
+            android:layout_marginBottom="10dp" />
+
+    </LinearLayout>
+</ScrollView>
+</FrameLayout>
